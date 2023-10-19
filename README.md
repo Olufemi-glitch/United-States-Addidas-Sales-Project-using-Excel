@@ -6,11 +6,9 @@ Percentage of units sold by city
 	Houston	        3.64%
 	San Francisco	3.51%
 	Los Angeles	3.08%
-![image](https://github.com/Olufemi-glitch/United-States-Addidas-Sales-Project-using-Excel/assets/67815527/2e57df3c-0dc0-4d72-b6ac-cdfb9d79813d)
 
 The sales method from the analysis shows that in-store as the highest value
 In-store	356643750
-![image](https://github.com/Olufemi-glitch/United-States-Addidas-Sales-Project-using-Excel/assets/67815527/94890d62-82be-4334-b2f2-10d96882f3ba)
 Bottom 3 products by the units sold
 Product	Sum of Units Sold are 
 Men's Apparel	306683
