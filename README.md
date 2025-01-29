@@ -1,11 +1,20 @@
-# United-States-Adidas-Sales-Project-using-Excel
-At Adidas, we are rebellious optimists driven by action, with a desire to shape a better future together. We see the world of sport and culture with possibility whereas others only see the impossible. ‘Impossible is Nothing’ is not a slogan for us. By being optimistic and knowing the power of sport, we see endless possibilities to apply this power and empower all people through action.
-Percentage of units sold by the city, Newyork possess the highest value
+United States Adidas Sales Analysis using Excel
 
-The sales method from the analysis shows that in-store as the highest value from the analysis
-Bottom 3 products by the units sold
-Product	Sum of Units Sold are 
-Men's Apparel	306683
-Women's Athletic Footwear 317236
-Women's Street Footwear	392269
+Summary: Adidas, a brand known for its rebellious optimism and commitment to shaping a better future through sport, continues to lead with the mindset that "Impossible is Nothing." This analysis examines Adidas’ sales data in the United States, uncovering valuable insights into sales performance, product trends, and regional distribution.
 
+Key Findings:
+
+City Sales Distribution:
+New York leads in units sold, demonstrating strong demand within the region.
+Sales Method:
+In-store sales account for the highest value in total sales, suggesting a significant preference for physical retail locations.
+Top Products by Units Sold:
+Men's Apparel: 306,683 units sold.
+Women's Athletic Footwear: 317,236 units sold.
+Women's Street Footwear: 392,269 units sold.
+
+Conclusion: The analysis highlights New York as the top-performing city for Adidas sales and reveals in-store sales as the primary contributor to overall sales. 
+
+The bottom three product categories by units sold include Men’s Apparel, Women’s Athletic Footwear, and Women’s Street Footwear. 
+
+This data provides insights into Adidas' current market dynamics, reflecting both opportunities and areas for further exploration.
